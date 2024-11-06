@@ -54,8 +54,6 @@ Authenticate your application to a database using environment variables to prote
 - Store database credentials securely in environment variables.
 - Access these variables in your code to connect to the database without exposing credentials.
 
-## Setup
-
 ### Prerequisites
 - Python 3.x
 - Virtual environment setup (optional but recommended)
