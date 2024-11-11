@@ -1,6 +1,6 @@
 # 0x01. Basic Authentication
 
-![Basic Authentication](https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/5/6ccb363443a8f301bc2bc38d7a08e9650117de7c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20241111%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20241111T160447Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4f2c9349ee2a2072727fc18c4a10cd6484487e27b73a264b550724f95db510e0)
+![Basic Authentication](https://blog.admindroid.com/wp-content/uploads/2023/03/Multi-factor-authentication-meme.jpg?v=1725086842)
 
 ## Project Overview
 
